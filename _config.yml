@@ -2,12 +2,12 @@
 title: "ckosmas.com"
 name: "Chris Kosmas"
 email: "chris@ckosmas.com"
-url: "ckosmas.com"
+url: "https://ckosmas.com"
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "dark"
 
 # Outputting
