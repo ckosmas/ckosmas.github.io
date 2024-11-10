@@ -38,7 +38,7 @@ author:
   links:
     - label: "Resume"
       icon: "fas fa-fw fa-file"
-      url: "/assets/resume.pdf"
+      url: "https://ckosmas.com/assets/resume.pdf"
 footer:
   links:
     - label: "GitHub"
