@@ -53,10 +53,7 @@ author:
   
   #  - label: "Website"
    #   icon: "fas fa-fw fa-link"
-    #  url: "https://"
-   # - label: "GitHub"
-      #icon: "fab fa-fw fa-github"
-      #url: "https://github.com/"
+    #  url: "https://ckosmas.com"
 
 footer:
   links:
