@@ -66,9 +66,10 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
-      comments: true
+      comments: # true
       share: true
       related: true
   # _pages
@@ -78,11 +79,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-
-# category_archive:
-#  type: liquid
-# path: /categories/
-# tag_archive:
-# type: liquid
-# path: /tags/
