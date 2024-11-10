@@ -3,7 +3,6 @@ title: "ckosmas.com"
 name: "Chris Kosmas"
 email: "chris@ckosmas.com"
 url: "ckosmas.github.io"
-description: "I like to break things and then fix them. This is my personal blog containing posts about information security topics I find interesting."
 search: true
 
 # Build settings
@@ -45,8 +44,8 @@ plugins:
 author:
   name   : "Chris Kosmas"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "This is my personal resume and blogging site. I like to talk about information security."
-  location: "Chicago, IL"
+  bio    : "I like to break things and then fix them. This is my personal blog containing posts about information security topics I find interesting."
+  location: "Greater Chicago Area"
   github: ckosmas
   email: chris@ckosmas.com
   
@@ -55,9 +54,9 @@ author:
   #  - label: "Website"
    #   icon: "fas fa-fw fa-link"
     #  url: "https://"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+   # - label: "GitHub"
+      #icon: "fab fa-fw fa-github"
+      #url: "https://github.com/"
 
 footer:
   links:
