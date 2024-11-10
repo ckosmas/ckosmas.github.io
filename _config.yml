@@ -35,11 +35,10 @@ author:
   location: "Greater Chicago Area"
   github: ckosmas
   email: chris@ckosmas.com
-  resume: 
   links:
-  #  - label: "Website"
-   #   icon: "fas fa-fw fa-link"
-    #  url: "https://ckosmas.com"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file"
+      url: "/assets/resume.pdf"
 footer:
   links:
     - label: "GitHub"
