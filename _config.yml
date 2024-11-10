@@ -13,13 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ckosmas.com
-email: chris@ckosmas.com
-description: >- This is my personal resume and blogging site. I like to talk about information security.
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-minimal_mistakes_skin: dark
+title: "Chris Kosmas"
+name: "Chris Kosmas"
+email: "chris@ckosmas.com"
+url: "ckosmas.github.io"
+description: "This is my personal resume and blogging site. I like to talk about information security."
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
