@@ -31,7 +31,7 @@ minimal_mistakes_skin: "dark"
 author:
   name   : "Chris Kosmas"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I like to break things and then fix them. This is my personal blog containing posts about information security topics I find interesting."
+  bio    : "This is my personal blog containing posts about information security topics I find interesting."
   location: "Greater Chicago Area"
   github: ckosmas
   email: chris@ckosmas.com
