@@ -110,3 +110,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Pagination
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
