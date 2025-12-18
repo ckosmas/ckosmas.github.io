@@ -36,9 +36,9 @@ author:
   github: ckosmas
   email: chris@ckosmas.com
   links:
-    - label: "Resume"
-      icon: "fas fa-fw fa-file"
-      url: "https://ckosmas.com/assets/resume.pdf"
+    # - label: "Resume"
+      # icon: "fas fa-fw fa-file"
+      # url: "https://ckosmas.com/assets/resume.pdf"
 footer:
   links:
     - label: "GitHub"
