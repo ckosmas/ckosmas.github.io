@@ -178,28 +178,28 @@ Although I utilized the forums quite a bit for the initial exploitation vector, 
 
 AutoRecon:
 
-https://github.com/Tib3rius/AutoRecon
+<https://github.com/Tib3rius/AutoRecon>
 
 Kerbrute:
 
-https://github.com/ropnop/kerbrute
+<https://github.com/ropnop/kerbrute>
 
 Kerberos Pre-Authentication and AS-REP Roasting:
 
-https://social.technet.microsoft.com/wiki/contents/articles/23559.kerberos-pre-authentication-why-it-should-not-be-disabled.aspx
+<https://social.technet.microsoft.com/wiki/contents/articles/23559.kerberos-pre-authentication-why-it-should-not-be-disabled.aspx>
 
-https://www.harmj0y.net/blog/activedirectory/roasting-as-reps/
+<https://www.harmj0y.net/blog/activedirectory/roasting-as-reps/>
 
-https://blog.stealthbits.com/cracking-active-directory-passwords-with-as-rep-roasting/
+<https://blog.stealthbits.com/cracking-active-directory-passwords-with-as-rep-roasting/>
 
 GetNPUsers:
 
-https://github.com/SecureAuthCorp/impacket/blob/impacket_0_9_21/examples/GetNPUsers.py
+<https://github.com/SecureAuthCorp/impacket/blob/impacket_0_9_21/examples/GetNPUsers.py>
 
 PowerUp:
 
-https://github.com/PowerShellEmpire/PowerTools/blob/master/PowerUp/PowerUp.ps1
+<https://github.com/PowerShellEmpire/PowerTools/blob/master/PowerUp/PowerUp.ps1>
 
 PSExec:
 
-https://github.com/SecureAuthCorp/impacket/blob/master/examples/psexec.py
+<https://github.com/SecureAuthCorp/impacket/blob/master/examples/psexec.py>
