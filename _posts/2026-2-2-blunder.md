@@ -89,7 +89,7 @@ Tweaking the PoC python code in the article here (also in the references section
 
 Initially attempting brute forcing using the generic 'rockyou.txt' seemed to trigger some sort of anti-brute forcing mechanism and was reporting incorrect passwords as being correct. Creating a custom wordlist using cewl helped to bypass this.
 
-he below cewl command was utilized to quickly crawl the website and create a wordlist from keywords on the site that were at least 6 characters long. The list of 188 words was then output to a text file.
+The below cewl command was utilized to quickly crawl the website and create a wordlist from keywords on the site that were at least 6 characters long. The list of 188 words was then output to a text file.
 
 ```
 cewl http://10.10.10.191 -m 6 -w cewl.txt
@@ -141,6 +141,7 @@ whoami
 ![alt text](https://github.com/ckosmas/ckosmas.github.io/blob/master/assets/images/blunder-12.png?raw=true)
 
 **Privilege Escalation:** 
+
 After gaining initial access to the machine, privilege escalation to a higher privileged user or directly to root was required.
 
 A great automated script to check for possible privilege escalation vectors is 'linpeas.sh'.
