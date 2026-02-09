@@ -30,7 +30,7 @@ minimal_mistakes_skin: "dark"
 # author profile settings
 author:
   name   : "Chris Kosmas"
-  avatar : "/assets/images/bio-photo.jpg"
+  # avatar : "/assets/images/bio-photo.jpg"
   bio    : "This is my personal blog containing posts about information security topics I find interesting."
   location: "United States"
   github: ckosmas
